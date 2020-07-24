@@ -13,12 +13,13 @@
 2. 《教父》
 3. 《沉默的羔羊》
 
-我学过的编程语言有HTML CSS JavaScript
+我学过的编程语言有`HTML` `CSS` `JavaScript`
 
 ```javascript
 const showNmae = () => {
   const myName = "邱杨辉";
   console.log(myName);
 };
+
+showNmae();
  ```
- `showName();`
