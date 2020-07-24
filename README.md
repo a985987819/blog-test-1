@@ -7,6 +7,12 @@
 * 看电影
 * 打游戏
 
+我喜欢看的电影有
+
+1. 《肖申克的救赎》
+2. 《教父》
+3. 《沉默的羔羊》
+
 我学过的编程语言有HTML CSS JavaScript
 
 ```javascript
@@ -14,5 +20,5 @@ const showNmae = () => {
   const myName = "邱杨辉";
   console.log(myName);
 };
-showName();
  ```
+ `showName();`
